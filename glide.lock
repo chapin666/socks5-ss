@@ -1,0 +1,8 @@
+hash: fc4b79947a548f61a758f96823f895945d5a045a9bd063c04f562bd2500979ac
+updated: 2017-11-06T23:17:56.108139312+08:00
+imports:
+- name: github.com/mitchellh/go-homedir
+  version: b8bc1bf767474819792c23f32d8286a45736f1c6
+- name: github.com/phayes/freeport
+  version: b8543db493a5ed890c5499e935e2cad7504f3a04
+testImports: []

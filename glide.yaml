@@ -1,0 +1,5 @@
+package: github.com/chapin/socks5-ss
+import:
+- package: github.com/phayes/freeport
+  version: ^1.0.2
+- package: github.com/mitchellh/go-homedir
